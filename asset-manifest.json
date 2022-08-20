@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Expense-App/static/css/main.be573ea7.css",
+    "main.js": "/React-Expense-App/static/js/main.2ba0a2d8.js",
+    "index.html": "/React-Expense-App/index.html",
+    "main.be573ea7.css.map": "/React-Expense-App/static/css/main.be573ea7.css.map",
+    "main.2ba0a2d8.js.map": "/React-Expense-App/static/js/main.2ba0a2d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be573ea7.css",
+    "static/js/main.2ba0a2d8.js"
+  ]
+}
